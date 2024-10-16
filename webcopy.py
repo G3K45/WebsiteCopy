@@ -50,7 +50,7 @@ def main():
     clearscreen()
     banner()
     url = input("Enter URL:")
-    path = input("Enter Directory or Filename:")
+    path = input("Enter Directory and Filename:")
     request = requests.get(url)
     response = request.text
     fopen = open(path+".html", "w")
