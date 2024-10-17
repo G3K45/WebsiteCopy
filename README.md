@@ -34,8 +34,6 @@ python3 webcopy.py
 
 MacOS:
 ```bash
-MacOS:
-```bash
 brew install git python
 git clone https://github.com/G3K45/WebsiteCopy.git
 cd WebsiteCopy
