@@ -41,7 +41,7 @@ pip3 install -r requirements.txt
 python3 webcopy.py
 ```
 
-# Images of the tool
+# Images
 
 ![ImageOFthetoool1](https://i.ibb.co/wSdBZZm/Image1.png)
 
@@ -49,4 +49,4 @@ python3 webcopy.py
 
 # #################
 
-Thank you for using my tool!!
+Thanκs for using my tool!!
