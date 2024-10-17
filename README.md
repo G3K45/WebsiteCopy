@@ -31,6 +31,8 @@ cd WebsiteCopy
 pip3 install -r requirements.txt
 python3 webcopy.py
 ```
+
+MacOS:
 ```bash
 MacOS:
 ```bash
