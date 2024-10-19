@@ -23,6 +23,15 @@ pip3 install -r requirements.txt
 python3 webcopy.py
 ```
 
+Void Linux:
+```bash
+sudo xbps-install git python3 python3-pip
+git clone https://github.com/G3K45/WebsiteCopy.git
+cd WebsiteCopy
+pip3 install -r requirements.txt --break-system-packages
+python3 webcopy.py
+```
+
 Termux:
 ```bash
 pkg install python3 python-pip git
